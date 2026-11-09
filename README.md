@@ -6,11 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=20&duration=5000&pause=2500&color=FFFFFF&center=true&vCenter=true&width=760&lines=Electrical+Engineer+%C2%B7+AI+Engineer;Reliable+software+%C2%B7+Applied+AI+%C2%B7+Data" alt="Electrical Engineer and AI Engineer" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/victor-r-665322288"><img src="https://img.shields.io/badge/LinkedIn-24527A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:victormoracaross@gmail.com"><img src="https://img.shields.io/badge/Gmail-8F4B4B?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-</p>
-
 ---
 
 <p align="left">
