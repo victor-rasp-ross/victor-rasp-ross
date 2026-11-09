@@ -34,10 +34,7 @@
 
 ![Python](https://img.shields.io/badge/Python-2F5573?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-2D6A65?style=for-the-badge&logo=fastapi&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-365A80?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-4B7480?style=for-the-badge&logo=react&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-40577A?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-35627A?style=for-the-badge&logo=docker&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-8F4B3A?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-9A5A2A?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-8F3F4A?style=for-the-badge&logo=keras&logoColor=white)
@@ -45,9 +42,6 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-3F705B?style=for-the-badge&logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-40577A?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-3E6875?style=for-the-badge&logo=numpy&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-8A721E?style=for-the-badge&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-8B4A3F?style=for-the-badge&logo=git&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-87433B?style=for-the-badge&logo=redis&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-40516B?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </div>
@@ -58,15 +52,6 @@
 
 ---
 
-<div align="center">
-
-| Project | Focus |
-| :--- | :--- |
-| [**Weather Trend Forecasting**](https://github.com/LucasPNunes1/PMAccelerator-DataScience) | End-to-end data science project using weather data from 439 stations. It covers cleaning, exploratory and spatial analysis, feature engineering, lag and rolling-window features, and comparisons between SARIMA, Prophet, linear regression, Gradient Boosting and ensemble models. |
-| [**Controle de Embarcados**](https://github.com/LucasPNunes1/controle-embarcados) | Team project for remotely controlling a Genius game running on an ESP32. The web interface communicates with the device through MQTT, while the backend combines NestJS, PostgreSQL, Prisma, Docker and Nginx. |
-| **Hyperspectral Research** | Applied machine learning project for classifying bacterial resistance from hyperspectral images. It involved spectral preprocessing, ROI segmentation, feature engineering, GPU processing, model comparison and leave-one-isolate-out validation across plates. The public repository is being prepared. |
-
-</div>
 
 <p align="center">
   <img src="assets/stats-art.jpg" width="100%" alt="Artwork">
