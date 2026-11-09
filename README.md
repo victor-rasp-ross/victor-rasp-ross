@@ -7,20 +7,19 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lucaspereiranunes"><img src="https://img.shields.io/badge/LinkedIn-24527A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:lucaspereiranunes@gmail.com"><img src="https://img.shields.io/badge/Gmail-8F4B4B?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://lucaspnunes.dev.br"><img src="https://img.shields.io/badge/Portfolio-8A623D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/victor-r-665322288"><img src="https://img.shields.io/badge/LinkedIn-24527A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:victormoracaross@gmail.com"><img src="https://img.shields.io/badge/Gmail-8F4B4B?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
 ---
 
 <p align="left">
   <img src="assets/profile-art.jpg" align="right" width="220" alt="Illustration" style="margin-left: 20px; border-radius: 15px;">
-  <strong>Software Engineer & AI Engineer</strong>
+  <strong>Electric Engineer & AI Engineer</strong>
 
-  I design and ship software systems that turn AI and data into useful products. My work spans backend engineering, machine learning, LLM applications and systems that need to be reliable beyond a notebook.
+  Just a Engineering enjoyer trying to learn more about AI, software systems, machine learning and deeper the knowledges i already have.
 
-  Currently studying Computer Engineering at PUC Goiás, with interests in AI applied to science, data-intensive systems and software that is useful outside a notebook.
+  Currently studying Electrical Engineering at POLI USP, with interests in AI applied to science, data-intensive systems and software that is useful outside a notebook.
 </p>
 
 <br clear="right">
