@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=20&duration=5000&pause=2500&color=FFFFFF&center=true&vCenter=true&width=760&lines=Software+Engineer+%C2%B7+AI+Engineer;Reliable+software+%C2%B7+Applied+AI+%C2%B7+Data" alt="Software Engineer and AI Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=20&duration=5000&pause=2500&color=FFFFFF&center=true&vCenter=true&width=760&lines=Software+Engineer+%C2%B7+AI+Engineer;Reliable+software+%C2%B7+Applied+AI+%C2%B7+Data" alt="Electrical Engineer and AI Engineer" />
 </p>
 
 <p align="center">
@@ -44,10 +44,6 @@
 ![NumPy](https://img.shields.io/badge/NumPy-3E6875?style=for-the-badge&logo=numpy&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-40516B?style=for-the-badge&logo=githubactions&logoColor=white)
 
-</div>
-
-<div align="center">
-  <h3>Selected projects</h3>
 </div>
 
 ---
